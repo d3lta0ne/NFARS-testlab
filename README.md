@@ -1,2 +1,2 @@
 # NFARS-testlab
-IaaC Environment used for training Administrators.
+IaaC test environment used for training NFARs administrators.
