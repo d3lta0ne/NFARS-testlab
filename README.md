@@ -13,9 +13,9 @@ NFARS Cyber Lab
 
 ## Project Description
 
-There is a current lack of training with hands-on Windows provisoning and administration for NFARs personnel. This lab is designed to automate the creation and management of an online networked environment for NFARs cyber training. We will create scenarios that enable us to manage Windows AD, and Cisco Network Traffic.
+There is a current lack of training with hands-on Windows provisioning and administration for NFARs personnel. This lab is designed to automate the creation and management of an online networked environment for NFARs cyber training. We will create scenarios that enable us to manage Windows AD, and Cisco Network Traffic.
 
-This lab can be used for validation of CBTs or for table-top expereiments.
+This lab can be used for validation of CBTs or for table-top experiments.
 
 ## Installation
 
